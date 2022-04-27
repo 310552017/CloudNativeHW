@@ -1,7 +1,7 @@
 # CloudNativeHW
 This repo is for 4/27 Homework
 
-User story: Uber
+## Uber User story
 
 司機: 
 - 兼職打工賺外快的中年人
@@ -16,3 +16,9 @@ User story: Uber
 - 速度要快 隨call隨到 趕快回家洗洗睡
 - 有著舒適的體驗 要禁菸車 最好是忘記今天職場上的悶事
 - 計價公道不繞路 我沒那麼多錢
+
+Acceptance Criteria
+- 設計一個可以隨時監控司機位置的App
+- 司機開機後隨即進入工作模式
+- 乘客可查詢所有進入工作模式的司機
+- 特化出禁菸車 豪華車 國產車 多人座 付小孩座椅 這些服務
